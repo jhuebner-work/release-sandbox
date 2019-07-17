@@ -11,9 +11,9 @@
 		<module>release-sandbox-module</module>
 	</modules>
 	<scm>
-		<connection>scm:git:git@github.com:jhuebnerscholastic/release-sandbox.git</connection>
-		<developerConnection>scm:git:git@github.com:jhuebnerscholastic/release-sandbox.git</developerConnection>
-		<url>https://github.com/jhuebnerscholastic/release-sandbox</url>
+		<connection>scm:git:git@github.com:jhuebner-work/release-sandbox.git</connection>
+		<developerConnection>scm:git:git@github.com:jhuebner-work/release-sandbox.git</developerConnection>
+		<url>https://github.com/jhuebners-work/release-sandbox</url>
 	</scm>
 	<properties>
 
